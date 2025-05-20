@@ -30,11 +30,11 @@ YouTube動画の字幕（日本語／英語）を自動で取得し、テキス�
 
 ## 環境構築
 
-pip install -r requirements.txt
-pip install -U yt-dlp
+- pip install -r requirements.txt
+- pip install -U yt-dlp
 
 ## アプリ起動
-streamlit run app.py
+- streamlit run app.py
 
 ---
 
