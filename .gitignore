@@ -1,0 +1,6 @@
+__pycache__/
+venv/
+コマンド.txt
+DLtxt/
+*.vtt
+*.txt
